@@ -1,0 +1,11 @@
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.deps.json
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.runtimeconfig.json
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.runtimeconfig.dev.json
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.dll
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.pdb
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.AssemblyInfoInputs.cache
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.AssemblyInfo.cs
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.dll
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.pdb
